@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "https://brainmentorspvtltd.github.io/noteapp/static/css/main.073c9b0a.css",
-    "main.js": "https://brainmentorspvtltd.github.io/noteapp/static/js/main.b87b81db.js",
+    "main.js": "https://brainmentorspvtltd.github.io/noteapp/static/js/main.e33384ce.js",
     "static/js/787.cda612ba.chunk.js": "https://brainmentorspvtltd.github.io/noteapp/static/js/787.cda612ba.chunk.js",
     "static/media/logo.svg": "https://brainmentorspvtltd.github.io/noteapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "https://brainmentorspvtltd.github.io/noteapp/index.html",
     "main.073c9b0a.css.map": "https://brainmentorspvtltd.github.io/noteapp/static/css/main.073c9b0a.css.map",
-    "main.b87b81db.js.map": "https://brainmentorspvtltd.github.io/noteapp/static/js/main.b87b81db.js.map",
+    "main.e33384ce.js.map": "https://brainmentorspvtltd.github.io/noteapp/static/js/main.e33384ce.js.map",
     "787.cda612ba.chunk.js.map": "https://brainmentorspvtltd.github.io/noteapp/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b87b81db.js"
+    "static/js/main.e33384ce.js"
   ]
 }
